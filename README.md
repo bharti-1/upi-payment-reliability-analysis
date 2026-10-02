@@ -1,4 +1,4 @@
-# UPI Payment Reliability & Revenue Impact Analysis
+# UPI Payment Reliability, Failure Root-Cause & GMV Impact Analysis
 
 **Fintech | Product Analytics | SQL | Python | Power BI**
 
