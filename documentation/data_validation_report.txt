@@ -1,0 +1,34 @@
+UPI PAYMENT RELIABILITY ANALYSIS
+DATA VALIDATION REPORT
+============================================================
+
+Total Transactions: 1,000,000
+Total Columns: 10
+Unique Transaction IDs: 1,000,000
+Unique Active Users: 94,538
+Duplicate Transaction IDs: 0
+Fully Duplicate Rows: 0
+Overall Failure Rate: 5.55%
+Total GMV: ₹244,788,163.61
+Failed GMV / GMV at Risk: ₹13,510,849.19
+Failed GMV Rate: 5.52%
+Earliest Transaction: 2025-01-01 00:02:56
+Latest Transaction: 2025-12-31 23:59:31
+Validation Status: PASSED
+
+Validation Checks Completed:
+- Schema validation
+- Mandatory field completeness
+- Transaction ID uniqueness
+- Duplicate row validation
+- Status and failure reason consistency
+- Amount range validation
+- Timestamp range validation
+- Categorical value validation
+- ID format validation
+- Distribution sanity checks
+- Monthly and daily coverage
+- App-version rollout validation
+- Failed GMV sanity validation
+
+Final Result: PASSED
